@@ -1,0 +1,60 @@
+{
+    "name": "Marconi M Guimarães Junior",
+    "job": "Junior Developer in Learning",
+    "location": "Minas Gerais - BR",
+    "phone": "(31) 9 9939-7039",
+    "email": "junior@brumafe.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+        },
+        {
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        },
+        {
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "REACT",
+          "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+        }
+      ],
+      "softSkills": [
+        "Problem solving",
+        "Adaptability",
+        "Time management",
+        "Teamwork"
+      ]
+    },
+    "languages": [
+      "Portuguese",
+      "Intermediary English"
+    ],
+    "portfolio": [
+      {
+        "name": "Project carried out to train knowledge in the JavaScript language",
+        "url": "https://github.com/MarconiJunior/JO-KEN-PO",
+        "github": true
+      },
+      {
+        "name": "Other projects:",
+        "url": "https://github.com/MarconiJunior",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Technical support internship / INTERSETE TELECOM",
+        "period": "Apr 2022 - Dec 2022",
+        "description": "Customer service by through WhatsApp, taking actions so that problems are solved, performing maintenance routines and configurations of radio and fiber equipment optics."
+      }
+    ]
+  }

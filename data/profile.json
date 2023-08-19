@@ -1,6 +1,6 @@
 {
     "name": "Marconi M Guimarães Junior",
-    "job": "Junior Developer in Learning",
+    "job": "Mobile Developer",
     "location": "Minas Gerais - BR",
     "phone": "(31) 9 9939-7039",
     "email": "junior@brumafe.com",
@@ -12,7 +12,11 @@
         },
         {
           "name": "Kotlin",
-          "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"
+          "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+        },
+        {
+          "name": "Kotlin",
+          "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"
         },
         {
           "name": "Java",
@@ -55,6 +59,11 @@
       }
     ],
     "professionalExperience": [
+      {
+        "name": "Mobile developer / ALGHORIT",
+        "period": "May 2023 - current",
+        "description": "Front-end development of native applications for android using kotlin, xml, Android Jetpack, among others."
+      },
       {
         "name": "Technical support internship / INTERSETE TELECOM",
         "period": "Apr 2022 - Dec 2022",

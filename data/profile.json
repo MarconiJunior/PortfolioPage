@@ -48,8 +48,8 @@
     ],
     "portfolio": [
       {
-        "name": "Project carried out to train knowledge in the JavaScript language",
-        "url": "https://github.com/MarconiJunior/JO-KEN-PO",
+        "name": "Note application built with jetpack Compose and MVVM architecture.",
+        "url": "https://github.com/MarconiJunior/NoteApp",
         "github": true
       },
       {
@@ -62,7 +62,7 @@
       {
         "name": "Mobile developer / ALGHORIT",
         "period": "May 2023 - current",
-        "description": "Front-end development of native applications for android using kotlin, xml, Android Jetpack, among others."
+        "description": "Creation and maintenance of mobile applications. My responsibilities include creating user interfaces using XML, Jetpack Compose, and Kotlin to provide an intuitive and appealing user experience. Additionally, I am tasked with integrating external APIs, managing databases, and implementing version control using GitLab. This experience has provided me with a solid understanding of mobile development practices, allowing me to contribute significantly to the success of the projects I'm involved in."
       },
       {
         "name": "Technical support internship / INTERSETE TELECOM",
